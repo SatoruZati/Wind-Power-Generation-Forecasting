@@ -130,14 +130,8 @@ Each file contains:
 ## File Structure
 ```bash
 ├── data/                  # Raw CSV files (Location1.csv–Location4.csv)
-├── notebooks/
-│   └── main.ipynb         # Jupyter notebook with full pipeline
-├── scripts/
-│   └── preprocess.py      # Data cleaning and feature engineering script
-│   └── train_models.py    # Model training and evaluation script
-├── reports/
-│   └── figures/           # Plots and visualizations
-├── requirements.txt       # Python dependencies
+├── main.ipynb             # Jupyter notebook with full pipeline
+├── dataset_readme.txt     # dataset details
 ├── README.md              # This file
 └── LICENSE
 ```
