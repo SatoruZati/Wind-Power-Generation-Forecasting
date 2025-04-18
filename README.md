@@ -116,13 +116,14 @@ Each file contains:
 ---
 
 ## Results
-| Model                   | RMSE  | R² Score |
-|-------------------------|-------|----------|
-| Optimized Random Forest | 0.XXX | 0.XXX    |
-| Optimized XGBoost       | 0.XXX | 0.XXX    |
-| Stacked Ensemble        | 0.XXX | 0.XXX    |
+| Model                   | MSE      | RMSE     | MAE      | R² Score |
+|-------------------------|----------|----------|----------|----------|
+| Stacked Ensemble        | 0.359717 | 0.599764 | 0.439174 | 0.643399 |
+| Optimized Random Forest | 0.360299 | 0.600249 | 0.439799 | 0.642823 |
+| Optimized XGBoost       | 0.376748 | 0.613798 | 0.449729 | 0.626516 |
 
-**Best Performing Model:** Stacked Ensemble with RMSE = `0.XXX` and R² = `0.XXX`.
+
+**Best Performing Model:** Stacked Ensemble with RMSE = 0.599764 and R² = 0.643399.
 
 ---
 
