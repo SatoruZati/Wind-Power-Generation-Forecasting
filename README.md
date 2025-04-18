@@ -11,7 +11,6 @@
 - [File Structure](#file-structure)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -164,11 +163,6 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request.
 
 Please ensure code style consistency and update documentation as needed.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
